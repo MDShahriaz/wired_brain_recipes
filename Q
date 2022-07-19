@@ -1,0 +1,23 @@
+[33mcommit c6cdc7873f996d27b99433a9a3f2c2b7b979108c[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Shahriazshuvo <Shahriaz.Montakim@brainstation-23.com>
+Date:   Tue Jul 19 18:47:59 2022 +0600
+
+    I love BBQ
+
+[33mcommit 11291d01d0a346cf5d68d4b4ccc3fff2d1504ed1[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mfeature3[m[33m, [m[1;32mfeature2[m[33m, [m[1;32mfeature1[m[33m)[m
+Author: Shahriazshuvo <Shahriaz.Montakim@brainstation-23.com>
+Date:   Mon Jul 18 17:07:54 2022 +0600
+
+    Group master and new_branch changes
+
+[33mcommit 8ad7f536cd1f4e8dab6347d76568b33031261dda[m
+Author: Shahriazshuvo <Shahriaz.Montakim@brainstation-23.com>
+Date:   Mon Jul 18 15:17:52 2022 +0600
+
+    add new vendor
+
+[33mcommit a7ab001c0e4e6768d2dc5132be17aaa5e9513a7b[m
+Author: Shahriazshuvo <Shahriaz.Montakim@brainstation-23.com>
+Date:   Mon Jul 18 12:56:24 2022 +0600
+
+    first commit
